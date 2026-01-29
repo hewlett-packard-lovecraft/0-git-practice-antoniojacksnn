@@ -6,4 +6,4 @@ I read the Wall Street Journal article about how the construction industry is st
 
 # comment
 
-I have mixed feelings about the use of AI in construction - construction definitely has far more of an impact on the physical world compared to some B2B SAAS. While the tools are improving and humans make mistakes too, you can't charge Claude with manslaughter
+I have mixed feelings about the use of AI in construction, as this industry definitely has far more of an impact on the physical world compared to some B2B SAAS. While the tools are improving and humans make mistakes too, you can't charge Claude with manslaughter
